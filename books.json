@@ -3,19 +3,19 @@
     "title" : "The End of Eternity",
     "author" : "Isaac Asimov",
     "year" : "1995",
-    "isbn" : "978-0739435571",
+    "isbn" : "978-0739435571"
     },
     {
     "title" : "One Hundred Years of Solitude",
     "author" : "Gabriel Garcia Marquez",
     "year" : "1967",
-    "isbn" : "978-0060883287",
+    "isbn" : "978-0060883287"
     },
     {
     "title" : "C Programming Language",
     "author" : "Brian W. Kernighan",
     "author2" : "Brian W. Kernighan",
     "year" : "1978",
-    "isbn" : "978-0131103627",
+    "isbn" : "978-0131103627"
     }]
 }
