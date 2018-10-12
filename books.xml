@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<sergios_books>
+    <book id="1">
+        <title>The End of Eternity</title>
+        <author>Isaac Asimov</author>
+        <year>1995</year>
+        <isbn>978-0739435571</isbn>       
+    </book>
+    <book id="2">
+        <title>>One Hundred Years of Solitude</title>
+        <author>Gabriel Garcia Marquez</author>
+        <year>1995</year>
+        <isbn>978-0739435571</isbn>
+    </book>
+    <book id="3">
+        <title>C Programming Language</title>
+        <author>Brian W. Kernighan</author>
+	<author2>Dennis M. Ritchie</author2>
+        <year>1978</year>
+        <isbn>978-0131103627</isbn>        
+    </book>
+</sergios_books>
